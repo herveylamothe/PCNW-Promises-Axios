@@ -1,0 +1,24 @@
+{
+  "name": "pcnw-promises-axios",
+  "version": "1.0.0",
+  "description": "## Problem 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herveylamothe/PCNW-Promises-Axios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herveylamothe/PCNW-Promises-Axios/issues"
+  },
+  "homepage": "https://github.com/herveylamothe/PCNW-Promises-Axios#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
